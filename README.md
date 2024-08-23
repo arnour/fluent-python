@@ -32,3 +32,16 @@ Fluent Python: Clear, Concise, and Effective Programming Exercises
 - [Example 2.22: Basic operations with rows and columns in a numpy.ndarray](chapters/2/example_2_22.py)
 - [Example 2.23: Working with a deque](chapters/2/example_2_23.py)
 
+## Chapter 3 - Dictionaries and Sets
+
+- [Example 3.1: Examples of dict comprehensions](chapters/3/example_3_1.py)
+- [Example 3.2: Pattern Matching with Mappings](chapters/3/example_3_2.py)
+- [Example 3.3: Inserting or Updating Mutable Values](chapters/3/example_3_3.py)
+- [Example 3.4: Uses dict.get to fetch and update a list](chapters/3/example_3_4.py)
+- [Example 3.5: Uses dict.setdefault to fetch and update a list](chapters/3/example_3_5.py)
+- [Example 3.6: Uses defaultdict to fetch and update a list](chapters/3/example_3_6.py)
+- [Example 3.8: Subclassing dict](chapters/3/example_3_8.py)
+- [Example 3.9: Subclassing UserDict Instead of dict](chapters/3/example_3_9.py)
+- [Example 3.10: MappingProxyType builds a read-only mappingproxy instance from a dict](chapters/3/example_3_10.py)
+- [Example 3.11: Dictionary Views](chapters/3/example_3_11.py)
+- [Example 3.12: Count occurrences of needles in a haystack](chapters/3/example_3_12.py) 
