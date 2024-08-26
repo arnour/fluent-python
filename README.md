@@ -45,3 +45,16 @@ Fluent Python: Clear, Concise, and Effective Programming Exercises
 - [Example 3.10: MappingProxyType builds a read-only mappingproxy instance from a dict](chapters/3/example_3_10.py)
 - [Example 3.11: Dictionary Views](chapters/3/example_3_11.py)
 - [Example 3.12: Count occurrences of needles in a haystack](chapters/3/example_3_12.py) 
+
+## Chapter 4 - Unicode Text Versus Bytes
+
+- [Example 4.1: Encoding and decoding](chapters/4/example_4_1.py)
+- [Example 4.2: Sequence as bytes and as bytearray](chapters/4/example_4_2.py)
+- [Example 4.3: Initializing bytes from the raw data of an array](chapters/4/example_4_3.py)
+- [Example 4.4: Same text encoded as three different byte sequences](chapters/4/example_4_4.py)
+- [Example 4.5: Encoding and decoding](chapters/4/example_4_5.py)
+- [Example 4.6: Decoding from str to bytes: success and error handling](chapters/4/example_4_6.py)
+- [Example 4.7: SyntaxError When Loading Modules with Unexpected Encoding](chapters/4/example_4_7.py)
+- [Example 4.10: Exploring encoding defaults](chapters/4/example_4_10.py)
+- [Example 4.14: Extreme “Normalization”: Taking Out Diacritics](chapters/4/example_4_14.py)
+- [Example 4.19: # Sorting Unicode Text](chapters/4/example_4_19.py)
