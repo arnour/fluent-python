@@ -79,3 +79,22 @@ Fluent Python: Clear, Concise, and Effective Programming Exercises
 - [Example 5.18: Example from the dataclasses module documentation](chapters/5/example_5_18.py)
 - [Example 5.19: : code for Resource, a class based on Dublin Core terms](chapters/5/example_5_19.py)
 - [Example 5.22: Pattern Matching Class Instances](chapters/5/example_5_22.py)
+
+## Chapter 6 - Object References, Mutability, and Recycling
+
+- [Example 6.1: Variables as boxes](chapters/6/example_6_1.py)
+- [Example 6.2: Variables are bound to objects only after the objects are created](chapters/6/example_6_2.py)
+- [Example 6.3: Identity, Equality, and Aliases](chapters/6/example_6_3.py)
+- [Example 6.4: value x identity check](chapters/6/example_6_4.py)
+- [Example 6.5: The Relative Immutability of Tuples](chapters/6/example_6_5.py)
+- [Example 6.6: Making a shallow copy of a list containing another list](chapters/6/example_6_6.py)
+- [Example 6.8: Deep and Shallow Copies of Arbitrary Objects](chapters/6/example_6_8.py)
+- [Example 6.10: Cyclic references](chapters/6/example_6_10.py)
+- [Example 6.11: Function Parameters as References](chapters/6/example_6_11.py)
+- [Example 6.12: Mutable Types as Parameter Defaults: Bad Idea](chapters/6/example_6_12.py)
+- [Example 6.15: Mutating received arguments](chapters/6/example_6_15.py)
+- [Example 6.16: The end of an object’s life](chapters/6/example_6_16.py)
+- [Example 6.17: A tuple built from another is actually the same exact tuple](chapters/6/example_6_17.py)
+- [Example 6.18: String literals may create shared objects](chapters/6/example_6_18.py)
+
+
