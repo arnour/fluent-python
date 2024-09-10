@@ -98,3 +98,21 @@ Fluent Python: Clear, Concise, and Effective Programming Exercises
 - [Example 6.18: String literals may create shared objects](chapters/6/example_6_18.py)
 
 
+## Chapter 7 - Functions as First-Class Objects
+
+- [Example 7.1: Create and test a function](chapters/7/example_7_1.py)
+- [Example 7.2: Use function through a different name](chapters/7/example_7_2.py)
+- [Example 7.3: pass function as an argument](chapters/7/example_7_3.py)
+- [Example 7.4: pass function as an argument 2](chapters/7/example_7_4.py)
+- [Example 7.5: map and filter compared to alternatives coded as list comprehensions](chapters/7/example_7_5.py)
+- [Example 7.6: reduce and sum](chapters/7/example_7_6.py)
+- [Example 7.7: using lambda](chapters/7/example_7_7.py)
+- [Example 7.8: callable user-defined class's instance](chapters/7/example_7_8.py)
+- [Example 7.9: From Positional to Keyword-Only Parameters](chapters/7/example_7_9.py)
+- [Example 7.11: Packages for Functional Programming](chapters/7/example_7_11.py)
+- [Example 7.13: Demo of itemgetter](chapters/7/example_7_13.py)
+- [Example 7.14: Demo of attrgetter](chapters/7/example_7_14.py)
+- [Example 7.15: Demo of methodcaller](chapters/7/example_7_15.py)
+- [Example 7.16: Using partial](chapters/7/example_7_16.py)
+- [Example 7.17: Using partial 2](chapters/7/example_7_17.py)
+- [Example 7.18: Demo of partial applied to a function](chapters/7/example_7_18.py)
