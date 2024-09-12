@@ -116,3 +116,24 @@ Fluent Python: Clear, Concise, and Effective Programming Exercises
 - [Example 7.16: Using partial](chapters/7/example_7_16.py)
 - [Example 7.17: Using partial 2](chapters/7/example_7_17.py)
 - [Example 7.18: Demo of partial applied to a function](chapters/7/example_7_18.py)
+
+
+## Chapter 8 - Type Hints in Functions
+
+
+- [Example 8.1: Gradual Typing](chapters/7/example_7_1.py)
+- [Example 8.3: Gradual Typing - Adding Optional Parameter](chapters/7/example_7_3.py)
+- [Example 8.4: Duck Typing vs Nominal Typing](chapters/7/example_7_4.py)
+- [Example 8.5: Duck Typing 1](chapters/7/example_7_5.py)
+- [Example 8.6: Duck Typing 2](chapters/7/example_7_6.py)
+- [Example 8.8: Generic Collections](chapters/7/example_7_8.py)
+- [Example 8.11: Tuple Types - Tuples as records](chapters/7/example_7_11.py)
+- [Example 8.12: Tuple Types - Tuples as records with named fields](chapters/7/example_7_12.py)
+- [Example 8.13: Tuple Types - Tuples as immutable sequences](chapters/7/example_7_13.py)
+- [Example 8.14: Generic Mappings](chapters/7/example_7_14.py)
+- [Example 8.15: Iterable](chapters/7/example_7_15.py)
+- [Example 8.16: Parameterized Generics and TypeVar](chapters/7/example_7_16.py)
+- [Example 8.17: Restricted TypeVar](chapters/7/example_7_17.py)
+- [Example 8.19: Restricted TypeVar 2](chapters/7/example_7_19.py)
+- [Example 8.20: Static Protocols](chapters/7/example_7_20.py)
+- [Example 8.24: Variance in Callable types](chapters/7/example_7_24.py)
